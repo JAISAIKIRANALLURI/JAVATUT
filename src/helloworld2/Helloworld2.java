@@ -18,7 +18,7 @@ public class Helloworld2 {
         public int a = 12;
         System.out.println("hello World");
         
-        if(a==13) {
+        if(a==12) {
             System.out.println("Git Git");
         }
     }
