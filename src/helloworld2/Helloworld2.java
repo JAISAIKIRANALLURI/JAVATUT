@@ -15,8 +15,12 @@ public class Helloworld2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        public int a = 12;
         System.out.println("hello World");
+        
+        if(a==12) {
+            System.out.println("Git Git");
+        }
     }
     
 }
